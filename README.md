@@ -336,6 +336,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 ## 💹 <a name="finance"></a>Finance
 
 > Financial data and cryptocurrency information services.
+ - [trollbridge-mcp](https://github.com/eric-tijerina/trollbridge-mcp) — Pay-per-call intel for AI agents: 15 tolled lanes (bounty boards, prices, wallet intel, token scans, prediction markets, search, yields, gas, AI model catalog) at $0.02–$0.05 USDC on Base/Solana via x402.
 
 - <img src="https://docs.octagonagents.com/logo.svg" alt="Octagon Logo" height="14"/> [Octagon](https://github.com/OctagonAI/octagon-mcp-server)<sup><sup>⭐</sup></sup> - Deliver real-time market intelligence with extensive private and public market data.
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
